@@ -43,7 +43,7 @@ This page contains a form that must be filled in according to the assignment ins
 - Product name
 - Description
 - Price 
-- Stock Unit (UOM) <br/>
+- Stock Unit (UOM) <br/><br/>
 After we fill in the form above and click the submit button, the product will be added and entered into the product list page
 
 #### List Product
